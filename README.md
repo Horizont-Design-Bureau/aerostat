@@ -37,5 +37,5 @@ $ source install/setup.bash
 6. Запустите симуляцию
 
 ```
-$ ros2 launch aerostat gazebo.launch.py
+$ ros2 launch aerostat_control flight_controller_aerostate.py
 ```
